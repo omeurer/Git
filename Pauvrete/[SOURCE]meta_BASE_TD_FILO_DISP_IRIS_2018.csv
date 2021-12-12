@@ -1,0 +1,29 @@
+COD_VAR;LIB_VAR;LIB_VAR_LONG;TYPE_VAR;LIB_MOD
+IRIS;IRIS;Code du departement suivi du numero de commune ou du numero d'arrondissement municipal suivi du numero d'IRIS;CHAR;9
+DISP_TP6018;Taux de pauvrete au seuil de 60 % (%);Taux de pauvrete au seuil de 60 % du revenu disponible par unite de consommation median metropolitain (%);NUM;4
+DISP_Q118;1er quartile (euros);1er quartile du revenu disponible par unite de consommation (en euros);NUM;5
+DISP_MED18;Mediane (euros);Mediane du revenu disponible par unite de consommation (en euros);NUM;5
+DISP_Q318;3e quartile (euros);3e quartile du revenu disponible par unite de consommation (en euros);NUM;6
+DISP_EQ18;ecart inter-quartile rapporte a la mediane;ecart inter-quartile rapporte a la mediane;NUM;4
+DISP_D118;1er decile (euros);1er decile du revenu disponible par unite de consommation (en euros);NUM;5
+DISP_D218;2e decile (euros);2e decile du revenu disponible par unite de consommation (en euros);NUM;5
+DISP_D318;3e decile (euros);3e decile du revenu disponible par unite de consommation (en euros);NUM;5
+DISP_D418;4e decile (euros);4e decile du revenu disponible par unite de consommation (en euros);NUM;5
+DISP_D618;6e decile (euros);6e decile du revenu disponible par unite de consommation (en euros);NUM;5
+DISP_D718;7e decile (euros);7e decile du revenu disponible par unite de consommation (en euros);NUM;6
+DISP_D818;8e decile (euros);8e decile du revenu disponible par unite de consommation (en euros);NUM;6
+DISP_D918;9e decile (euros);9e decile du revenu disponible par unite de consommation (en euros);NUM;6
+DISP_RD18;Rapport interdecile D9/D1;Rapport interdecile D9/D1 du revenu disponible par unite de consommation;NUM;4
+DISP_S80S2018;S80/S20;S80/S20 du revenu disponible par unite de consommation;NUM;4
+DISP_GI18;Indice de Gini;Indice de Gini du revenu disponible par unite de consommation;NUM;5
+DISP_PACT18;Part des revenus d'activite (%);Part des revenus d'activite (%);NUM;5
+DISP_PTSA18;dont part des salaires et traitements (%);dont part des salaires et traitements (%);NUM;5
+DISP_PCHO18;dont part des indemnites de chomage (%);dont part des indemnites chomage (%);NUM;3
+DISP_PBEN18;dont part des revenus des activites non salariees (%);dont part des revenus des activites non salariees (%);NUM;4
+DISP_PPEN18;Part des pensions, retraites et rentes (%);Part des pensions, retraites et rentes (%);NUM;4
+DISP_PPAT18;Part des revenus du patrimoine et autres revenus (%);Part des revenus du patrimoine et autres revenus (%);NUM;4
+DISP_PPSOC18;Part de l'ensemble des prestations sociales (%);Part de l'ensemble des prestations sociales (%);NUM;4
+DISP_PPFAM18;dont part des prestations familiales (%);dont part des prestations familiales (%);NUM;4
+DISP_PPMINI18;dont part des minima sociaux (%);dont part des minima sociaux (%);NUM;4
+DISP_PPLOGT18;dont part des prestations logement (%);dont part des prestations logement (%);NUM;4
+DISP_PIMPOT18;Part des impots (%);Part des impots (%);NUM;5
